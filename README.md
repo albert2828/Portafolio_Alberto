@@ -1,5 +1,6 @@
 # Portafolio 
 ## Luis Alberto Macías Barrales
+[CV](https://github.com/albert2828/Portafolio_Alberto/blob/main/CV_Luis_Alberto_Mac%C3%ADas_Barrales.pdf)
 
 ## Análisis Estadístico - Covid-19 en CDMX
 En [este](https://github.com/albert2828/covid_19_cdmx) proyecto hago un análisis de la base de datos de la pandemia de covid-19 en la Ciudad de México.
