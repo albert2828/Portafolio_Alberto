@@ -1,5 +1,5 @@
-# Portafolio 
-## Luis Alberto Macías Barrales
+# Luis Alberto Macías Barrales 
+## Analista de datos - Científico de datos
 [CV](https://github.com/albert2828/Portafolio_Alberto/blob/main/CV_Luis_Alberto_Mac%C3%ADas_Barrales.pdf)
 
 ## Análisis Estadístico - Covid-19 en CDMX
