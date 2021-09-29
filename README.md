@@ -2,6 +2,8 @@
 ## Analista de datos - Científico de datos
 [CV](https://github.com/albert2828/Portafolio_Alberto/blob/main/CV_Luis_Alberto_Mac%C3%ADas_Barrales.pdf)
 
+(Englsih version yet to come)
+
 ## Análisis Estadístico - Covid-19 en CDMX
 En [este](https://github.com/albert2828/covid_19_cdmx) proyecto hago un análisis de la base de datos de la pandemia de covid-19 en la Ciudad de México.
 
