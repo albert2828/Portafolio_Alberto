@@ -5,7 +5,7 @@
 (Englsih version yet to come)
 
 ## Análisis Estadístico - Covid-19 en CDMX
-En [este](https://github.com/albert2828/covid_19_cdmx) proyecto hago un análisis de la base de datos de la pandemia de covid-19 en la Ciudad de México.
+En [este](https://github.com/albert2828/covid_19_cdmx) proyecto hago un análisis estadístico de la base de datos de la pandemia de covid-19 en la Ciudad de México. Consiste en analizar los casos positivos en la Ciudad de México, el número de fallecimientos, las diferencias por rangos de edad y el impacto de algunas comorbilidades en la probabilidad de fallecer. Además, realicé un [dashboard interactivo](https://public.tableau.com/app/profile/luis.alberto.macias.barrales/viz/covid19MX/Covid19enMxico) de los datos de la pandemia a nivel nacional. Este dashboard será actualizado semanalmente.
 
 ## Análisis de datos de Twitter en R (artículo para Tacos de Datos)
 Escribí el siguiente [artículo](https://medium.com/tacosdedatos/me-stalkee-en-twitter-usando-r-y-esto-fue-lo-que-descubr%C3%AD-845738f32922) para el blog Tacos de Datos, en el cual analicé mi cuenta personal de Twitter, utilizando la librería twitterR del lenguaje R. El artículo consistió en el análisis de 1400+ tuits, analizando la distribución y el comportamiento en el tiempo de "me gusta", y "retuits". También hago un análisis de los principales temas que toco en mi cuenta. El código de este análisis se puede encontrar en el siguiente [repositorio](https://github.com/albert2828/twitter_stalk).
